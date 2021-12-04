@@ -9,3 +9,7 @@ https://medium.com/@juliakrivonosova
 ## Compile the Blob 
 
 run 'bundle exec jekyll serve' in the blog directory
+
+## Coq Module Instantiation
+
+https://github-wiki-see.page/m/coq/coq/wiki/ModuleSystemTutorial
